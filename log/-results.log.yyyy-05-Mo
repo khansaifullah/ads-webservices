@@ -1,0 +1,254 @@
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"10:26:55"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :03431461466","timestamp":"10:26:55"}
+{"level":"info","message":"UserExists Method Called","timestamp":"10:26:55"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"10:26:55"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"10:26:55"}
+{"level":"info","message":"User Found with Phone Num. :{ phone: '03431461466',\n  profile_photo_url: 'https://brandedsms.net/postvideo/upload/2018-05-1010-36-11-WTCimage.jpg',\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-10T09:25:42.870Z,\n  _id: 5af40ef8b37b4028e0816461,\n  name: 'Nadeem',\n  email: 'nadeem@gmail.com',\n  password: '$2a$10$d6vYE5euYVqJDOuKBFBSuOoTgvEApN8yUA7PQpuNaiuZz0/hAEIpK',\n  user_type: 'rider',\n  createdAt: 2018-05-10T09:20:56.941Z,\n  updatedAt: 2018-05-10T09:36:11.430Z,\n  __v: 1,\n  loc: [ 33.673923450007095, 72.99943132380758 ],\n  active: false,\n  regNo: 'BC1236478',\n  verified_user: true }","timestamp":"10:26:56"}
+{"level":"info","message":"User Exists Response : { phone: '03431461466',\n  profile_photo_url: 'https://brandedsms.net/postvideo/upload/2018-05-1010-36-11-WTCimage.jpg',\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-10T09:25:42.870Z,\n  _id: 5af40ef8b37b4028e0816461,\n  name: 'Nadeem',\n  email: 'nadeem@gmail.com',\n  password: '$2a$10$d6vYE5euYVqJDOuKBFBSuOoTgvEApN8yUA7PQpuNaiuZz0/hAEIpK',\n  user_type: 'rider',\n  createdAt: 2018-05-10T09:20:56.941Z,\n  updatedAt: 2018-05-10T09:36:11.430Z,\n  __v: 1,\n  loc: [ 33.673923450007095, 72.99943132380758 ],\n  active: false,\n  regNo: 'BC1236478',\n  verified_user: true }","timestamp":"10:26:56"}
+{"level":"info","message":"::1 - - [14/May/2018:05:26:56 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"10:26:56"}
+{"level":"info","message":"Sucessful Response of SMS API : 03431461466","timestamp":"10:26:56"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"10:40:14"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :03431461466","timestamp":"10:40:14"}
+{"level":"info","message":"UserExists Method Called","timestamp":"10:40:14"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"10:40:14"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"10:40:14"}
+{"level":"info","message":"User Found with Phone Num. :{ phone: '03431461466',\n  profile_photo_url: 'https://brandedsms.net/postvideo/upload/2018-05-1010-36-11-WTCimage.jpg',\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-10T09:25:42.870Z,\n  _id: 5af40ef8b37b4028e0816461,\n  name: 'Nadeem',\n  email: 'nadeem@gmail.com',\n  password: '$2a$10$d6vYE5euYVqJDOuKBFBSuOoTgvEApN8yUA7PQpuNaiuZz0/hAEIpK',\n  user_type: 'rider',\n  createdAt: 2018-05-10T09:20:56.941Z,\n  updatedAt: 2018-05-14T05:26:56.215Z,\n  __v: 1,\n  loc: [ 33.673923450007095, 72.99943132380758 ],\n  active: false,\n  regNo: 'BC1236478',\n  verified_user: true,\n  verification_code: '2104' }","timestamp":"10:40:14"}
+{"level":"info","message":"User Exists Response : { phone: '03431461466',\n  profile_photo_url: 'https://brandedsms.net/postvideo/upload/2018-05-1010-36-11-WTCimage.jpg',\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-10T09:25:42.870Z,\n  _id: 5af40ef8b37b4028e0816461,\n  name: 'Nadeem',\n  email: 'nadeem@gmail.com',\n  password: '$2a$10$d6vYE5euYVqJDOuKBFBSuOoTgvEApN8yUA7PQpuNaiuZz0/hAEIpK',\n  user_type: 'rider',\n  createdAt: 2018-05-10T09:20:56.941Z,\n  updatedAt: 2018-05-14T05:26:56.215Z,\n  __v: 1,\n  loc: [ 33.673923450007095, 72.99943132380758 ],\n  active: false,\n  regNo: 'BC1236478',\n  verified_user: true,\n  verification_code: '2104' }","timestamp":"10:40:14"}
+{"level":"info","message":"::1 - - [14/May/2018:05:40:14 +0000] \"POST /api/users/resendVerificationcode HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"10:40:14"}
+{"level":"info","message":"Sucessful Response of SMS API : 03431461466","timestamp":"10:40:15"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"10:42:06"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :0343123123","timestamp":"10:42:06"}
+{"level":"info","message":"UserExists Method Called","timestamp":"10:42:06"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"10:42:06"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"10:42:06"}
+{"level":"info","message":"User Not Found with Phone Num. :null","timestamp":"10:42:06"}
+{"level":"info","message":"User Exists Response : null","timestamp":"10:42:06"}
+{"level":"info","message":" User does not exist,  Creating user","timestamp":"10:42:06"}
+{"level":"info","message":"User Created With Phone Num 0343123123","timestamp":"10:42:07"}
+{"level":"info","message":"::1 - - [14/May/2018:05:42:07 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 68 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"10:42:07"}
+{"level":"info","message":"Sucessful Response of SMS API : [object Object]","timestamp":"10:42:07"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"10:42:21"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :0343123123","timestamp":"10:42:21"}
+{"level":"info","message":"UserExists Method Called","timestamp":"10:42:21"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"10:42:21"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"10:42:21"}
+{"level":"info","message":"User Found with Phone Num. :{ phone: '0343123123',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-14T05:42:06.772Z,\n  _id: 5af921ae5d9dd428c4d0e59c,\n  verified_user: false,\n  verification_code: '9050',\n  createdAt: 2018-05-14T05:42:06.772Z,\n  updatedAt: 2018-05-14T05:42:06.772Z,\n  __v: 0 }","timestamp":"10:42:21"}
+{"level":"info","message":"User Exists Response : { phone: '0343123123',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-14T05:42:06.772Z,\n  _id: 5af921ae5d9dd428c4d0e59c,\n  verified_user: false,\n  verification_code: '9050',\n  createdAt: 2018-05-14T05:42:06.772Z,\n  updatedAt: 2018-05-14T05:42:06.772Z,\n  __v: 0 }","timestamp":"10:42:21"}
+{"level":"info","message":"::1 - - [14/May/2018:05:42:21 +0000] \"POST /api/users/resendVerificationcode HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"10:42:21"}
+{"level":"info","message":"Sucessful Response of SMS API : 0343123123","timestamp":"10:42:22"}
+{"level":"info","message":"In user routes verifyCode route called.  :0343123123 - 8236","timestamp":"10:43:12"}
+{"level":"info","message":"::1 - - [14/May/2018:05:43:12 +0000] \"POST /api/users/verifyCode HTTP/1.1\" 200 59 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"10:43:12"}
+{"level":"info","message":"Image File Received Temp Name :image-1526276671107.jpg","timestamp":"10:44:31"}
+{"level":"info","message":"Image is Uploaded","timestamp":"10:44:31"}
+{"level":"info","message":"imageUrl : https://brandedsms.net/postvideo/upload/2018-05-1406-44-33-WTCimage.jpg","timestamp":"10:44:33"}
+{"level":"info","message":"UserExists Method Called","timestamp":"10:44:33"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"10:44:33"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"10:44:33"}
+{"level":"info","message":"Setting tempFileNames to Null","timestamp":"10:44:33"}
+{"level":"info","message":"User Found with Phone Num. :{ phone: '0343123123',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-14T05:42:06.772Z,\n  _id: 5af921ae5d9dd428c4d0e59c,\n  verified_user: false,\n  verification_code: '8236',\n  createdAt: 2018-05-14T05:42:06.772Z,\n  updatedAt: 2018-05-14T05:42:21.506Z,\n  __v: 0 }","timestamp":"10:44:33"}
+{"level":"info","message":"User updated With Phone Num 0343123123","timestamp":"10:44:34"}
+{"level":"info","message":"::1 - - [14/May/2018:05:44:34 +0000] \"POST /api/users/profile HTTP/1.1\" 200 475 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"10:44:34"}
+{"level":"info","message":"UserExists Method Called","timestamp":"10:49:33"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"10:49:33"}
+{"level":"info","message":"User Found with Phone Num. :0343123123","timestamp":"10:49:33"}
+{"level":"info","message":"location : 33.673923450007095,72.99943132380758","timestamp":"10:49:33"}
+{"level":"info","message":"User Location With Phone Num 0343123123","timestamp":"10:49:33"}
+{"level":"info","message":"::1 - - [14/May/2018:05:49:33 +0000] \"POST /api/users/updateLocation HTTP/1.1\" 200 521 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"10:49:33"}
+{"level":"info","message":"UserExists Method Called","timestamp":"10:50:45"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"10:50:45"}
+{"level":"info","message":"User Found with Phone Num. :0343123123","timestamp":"10:50:46"}
+{"level":"info","message":"location : 33.673923450007095,72.99943132380758","timestamp":"10:50:46"}
+{"level":"info","message":"User Location With Phone Num 0343123123","timestamp":"10:50:46"}
+{"level":"info","message":"::1 - - [14/May/2018:05:50:46 +0000] \"POST /api/users/updateLocation HTTP/1.1\" 200 521 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"10:50:46"}
+{"level":"info","message":"UserExists Method Called","timestamp":"10:52:51"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"10:52:51"}
+{"level":"info","message":"User Found with Phone Num. :0343123123","timestamp":"10:52:52"}
+{"level":"info","message":"location : 33.673923450007095,72.99943132380758","timestamp":"10:52:52"}
+{"level":"info","message":"User Location With Phone Num 0343123123","timestamp":"10:52:52"}
+{"level":"info","message":"::1 - - [14/May/2018:05:52:52 +0000] \"POST /api/users/updateLocation HTTP/1.1\" 200 521 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"10:52:52"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:28:00"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:28:00"}
+{"level":"error","message":"Some Error while updating userundefined","timestamp":"11:28:00"}
+{"level":"info","message":"::1 - - [14/May/2018:06:28:00 +0000] \"POST /api/users/updateLocation HTTP/1.1\" 200 68 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:28:00"}
+{"level":"info","message":"User Found with Phone Num. :0343123123","timestamp":"11:28:00"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:28:35"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:28:35"}
+{"level":"info","message":"User Found with Phone Num. :0343123123","timestamp":"11:28:35"}
+{"level":"info","message":"location : 33.673923450007095,72.99943132380758","timestamp":"11:28:35"}
+{"level":"info","message":"User Location With Phone Num 0343123123","timestamp":"11:28:35"}
+{"level":"info","message":"::1 - - [14/May/2018:06:28:35 +0000] \"POST /api/users/updateLocation HTTP/1.1\" 200 521 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:28:35"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:30:33"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:30:33"}
+{"level":"info","message":"User Found with Phone Num. :0343123123","timestamp":"11:30:35"}
+{"level":"info","message":"location : 33.673923450007095,72.99943132380758","timestamp":"11:30:35"}
+{"level":"info","message":"User Location With Phone Num 0343123123","timestamp":"11:30:35"}
+{"level":"info","message":"::1 - - [14/May/2018:06:30:35 +0000] \"POST /api/users/updateLocation HTTP/1.1\" 200 2001 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:30:35"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:36:52"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:36:52"}
+{"level":"info","message":"User Found with Phone Num. :0343123123","timestamp":"11:36:52"}
+{"level":"info","message":"location : 33.673923450007095,72.99943132380758","timestamp":"11:36:52"}
+{"level":"info","message":"User Location With Phone Num 0343123123","timestamp":"11:36:52"}
+{"level":"info","message":"::1 - - [14/May/2018:06:36:52 +0000] \"POST /api/users/updateLocation HTTP/1.1\" 200 2001 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:36:52"}
+{"level":"info","message":"::1 - - [14/May/2018:06:38:20 +0000] \"POST /api/users/updateLocation HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:38:20"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"11:42:06"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :0333333333","timestamp":"11:42:06"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:42:06"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:42:06"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"11:42:06"}
+{"level":"info","message":"User Not Found with Phone Num. :null","timestamp":"11:42:06"}
+{"level":"info","message":"User Exists Response : null","timestamp":"11:42:06"}
+{"level":"info","message":" User does not exist,  Creating user","timestamp":"11:42:06"}
+{"level":"info","message":"User Created With Phone Num 0333333333","timestamp":"11:42:06"}
+{"level":"info","message":"::1 - - [14/May/2018:06:42:06 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 68 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:42:06"}
+{"level":"info","message":"Sucessful Response of SMS API : [object Object]","timestamp":"11:42:07"}
+{"level":"info","message":"::1 - - [14/May/2018:06:51:52 +0000] \"POST /api/users/updateLocation HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:51:52"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:57:09"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:57:10"}
+{"level":"info","message":"User Found with Phone Num. :03431469988","timestamp":"11:57:10"}
+{"level":"info","message":"location : 33.673923450007095,72.99943132380758","timestamp":"11:57:10"}
+{"level":"info","message":"User Location With Phone Num 03431469988","timestamp":"11:57:10"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:57:30"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:57:30"}
+{"level":"info","message":"User Found with Phone Num. :03431469988","timestamp":"11:57:32"}
+{"level":"info","message":"location : 33.673923450007095,72.99943132380758","timestamp":"11:57:32"}
+{"level":"info","message":"User Location With Phone Num 03431469988","timestamp":"11:57:34"}
+{"level":"info","message":"::1 - - [14/May/2018:06:57:34 +0000] \"POST /api/users/updateDriverLoc HTTP/1.1\" 200 490 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:57:34"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:57:55"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:57:55"}
+{"level":"info","message":"User Found with Phone Num. :034314725896","timestamp":"11:57:55"}
+{"level":"info","message":"location : 33.673923450007095,72.99943132380758","timestamp":"11:57:55"}
+{"level":"info","message":"User Location With Phone Num 034314725896","timestamp":"11:57:55"}
+{"level":"info","message":"::1 - - [14/May/2018:06:57:55 +0000] \"POST /api/users/updateDriverLoc HTTP/1.1\" 200 488 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:57:55"}
+{"level":"info","message":"::1 - - [14/May/2018:07:14:00 +0000] \"POST /api/users/updateLocation HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:14:00"}
+{"level":"info","message":"::1 - - [14/May/2018:07:20:36 +0000] \"POST /api/users/updateLocation HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:20:36"}
+{"level":"info","message":"::1 - - [14/May/2018:07:23:02 +0000] \"POST /api/users/updateLocation HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:23:02"}
+{"level":"info","message":"::1 - - [14/May/2018:07:23:41 +0000] \"POST /api/users/updateLocation HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:23:41"}
+{"level":"info","message":"::1 - - [14/May/2018:07:25:14 +0000] \"POST /api/users/updateLocation HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:25:14"}
+{"level":"info","message":"::1 - - [14/May/2018:07:25:46 +0000] \"POST /api/users/updateLocation HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:25:46"}
+{"level":"info","message":"An Exception Has occured in updateUserLocation methodTypeError: Cannot read property '0' of undefined","timestamp":"12:26:15"}
+{"level":"info","message":"::1 - - [14/May/2018:07:26:22 +0000] \"POST /api/users/updateLocation HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:26:22"}
+{"level":"info","message":"An Exception Has occured in updateUserLocation methodTypeError: Cannot read property 'push' of undefined","timestamp":"12:32:26"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:34:00"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:34:00"}
+{"level":"info","message":"User Not Found with Phone Num. :undefined","timestamp":"12:34:00"}
+{"level":"info","message":"::1 - - [14/May/2018:07:34:00 +0000] \"POST /api/users/updateLocation HTTP/1.1\" 200 71 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:34:00"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:34:39"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:34:39"}
+{"level":"info","message":"User Found with Phone Num. :03431469988","timestamp":"12:34:39"}
+{"level":"info","message":"location : 33.673923450007095,72.99943132380758","timestamp":"12:34:39"}
+{"level":"info","message":"User Location With Phone Num 03431469988","timestamp":"12:34:39"}
+{"level":"info","message":"::1 - - [14/May/2018:07:34:39 +0000] \"POST /api/users/updateLocation HTTP/1.1\" 200 510 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:34:39"}
+{"level":"info","message":"::1 - - [14/May/2018:07:38:29 +0000] \"POST /api/users/register HTTP/1.1\" 200 127 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:38:29"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:43:45"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:43:45"}
+{"level":"info","message":"User Not Found with Phone Num. :rajauzair@gmail.com","timestamp":"12:43:45"}
+{"level":"info","message":"::1 - - [14/May/2018:07:43:45 +0000] \"POST /api/users/updateDriverLoc HTTP/1.1\" 200 71 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:43:45"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:45:12"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:45:12"}
+{"level":"info","message":"User Not Found with Phone Num. :rajauzair@gmail.com","timestamp":"12:45:13"}
+{"level":"info","message":"::1 - - [14/May/2018:07:45:13 +0000] \"POST /api/users/updateDriverLoc HTTP/1.1\" 200 71 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:45:13"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:45:52"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:45:52"}
+{"level":"info","message":"User Not Found with Phone Num. :rajauzair@gmail.com","timestamp":"12:45:54"}
+{"level":"info","message":"::1 - - [14/May/2018:07:45:54 +0000] \"POST /api/users/updateDriverLoc HTTP/1.1\" 200 71 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:45:54"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:46:00"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:46:00"}
+{"level":"info","message":"User Not Found with Phone Num. :rajauzair@gmail.com","timestamp":"12:46:00"}
+{"level":"info","message":"::1 - - [14/May/2018:07:46:00 +0000] \"POST /api/users/updateDriverLoc HTTP/1.1\" 200 71 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:46:00"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:46:46"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:46:46"}
+{"level":"info","message":"User Found with Email. :{ phone: '03431112233',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-14T07:38:29.053Z,\n  _id: 5af93cf5b72f4605aca407c6,\n  name: 'raja uzair',\n  email: 'rajauzair@gmail.com',\n  password: '$2a$10$jeCJdvHx3tlAvFbEVLwWxO3kHxSoUO/EOaiOT40x2MQEObMESTu6a',\n  user_type: 'driver',\n  createdAt: 2018-05-14T07:38:29.200Z,\n  updatedAt: 2018-05-14T07:38:29.200Z,\n  __v: 0 }","timestamp":"12:46:47"}
+{"level":"info","message":"location : 33.673923450007095,72.99943132380758","timestamp":"12:46:47"}
+{"level":"info","message":"User Location With email rajauzair@gmail.com","timestamp":"12:46:47"}
+{"level":"info","message":"::1 - - [14/May/2018:07:46:47 +0000] \"POST /api/users/updateDriverLoc HTTP/1.1\" 200 491 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:46:47"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:47:38"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:47:38"}
+{"level":"info","message":"User Found with Phone Num. :03431469988","timestamp":"12:47:38"}
+{"level":"info","message":"location : 33.673923450007095,72.99943132380758","timestamp":"12:47:38"}
+{"level":"info","message":"User Location With Phone Num 03431469988","timestamp":"12:47:38"}
+{"level":"info","message":"::1 - - [14/May/2018:07:47:38 +0000] \"POST /api/users/updateLocation HTTP/1.1\" 200 511 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:47:38"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:48:59"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:48:59"}
+{"level":"info","message":"User Found with Phone Num. :03431469988","timestamp":"12:48:59"}
+{"level":"info","message":"location : 33.673923450007095,72.99943132380758","timestamp":"12:48:59"}
+{"level":"info","message":"User Location With Phone Num 03431469988","timestamp":"12:49:00"}
+{"level":"info","message":"::1 - - [14/May/2018:07:49:00 +0000] \"POST /api/users/updateLocation HTTP/1.1\" 200 1359 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:49:00"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:49:58"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:49:58"}
+{"level":"info","message":"User Found with Phone Num. :03431469988","timestamp":"12:49:58"}
+{"level":"info","message":"location : 33.673923450007095,72.99943132380758","timestamp":"12:49:58"}
+{"level":"info","message":"User Location With Phone Num 03431469988","timestamp":"12:49:59"}
+{"level":"info","message":"::1 - - [14/May/2018:07:49:59 +0000] \"POST /api/users/updateLocation HTTP/1.1\" 200 1359 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:49:59"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:50:58"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:50:58"}
+{"level":"info","message":"User Found with Phone Num. :03431469988","timestamp":"12:50:58"}
+{"level":"info","message":"location : 33.673923450007095,72.99943132380758","timestamp":"12:50:58"}
+{"level":"info","message":"User Location With Phone Num 03431469988","timestamp":"12:50:59"}
+{"level":"info","message":"::1 - - [14/May/2018:07:50:59 +0000] \"POST /api/users/updateLocation HTTP/1.1\" 200 1359 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:50:59"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:59:55"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:59:55"}
+{"level":"info","message":"User Found with Phone Num. :03431469988","timestamp":"12:59:55"}
+{"level":"info","message":"location : 33.673923450007095,72.99943132380758","timestamp":"12:59:55"}
+{"level":"info","message":"User Location With Phone Num 03431469988","timestamp":"12:59:55"}
+{"level":"info","message":"::1 - - [14/May/2018:07:59:55 +0000] \"POST /api/users/updateLocation HTTP/1.1\" 200 495 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:59:55"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:04:35"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:04:35"}
+{"level":"info","message":"User Found with Phone Num. :03431469988","timestamp":"13:04:35"}
+{"level":"info","message":"location : 33.673923450007095,72.99943132380758","timestamp":"13:04:35"}
+{"level":"info","message":"User Location With Phone Num 03431469988","timestamp":"13:04:36"}
+{"level":"info","message":"::1 - - [14/May/2018:08:04:36 +0000] \"POST /api/users/updateLocation HTTP/1.1\" 200 70 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"13:04:36"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:06:14"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:06:14"}
+{"level":"info","message":"User Found with Phone Num. :03431469988","timestamp":"13:06:14"}
+{"level":"info","message":"location : 33.673923450007095,72.99943132380758","timestamp":"13:06:14"}
+{"level":"info","message":"User Location With Phone Num 03431469988","timestamp":"13:06:15"}
+{"level":"info","message":"::1 - - [14/May/2018:08:06:15 +0000] \"POST /api/users/updateLocation HTTP/1.1\" 200 333 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"13:06:15"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:09:37"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:09:37"}
+{"level":"info","message":"User Found with Phone Num. :03431469988","timestamp":"13:09:37"}
+{"level":"info","message":"location : 33.673923450007095,72.99943132380758","timestamp":"13:09:37"}
+{"level":"info","message":"User Location With Phone Num 03431469988","timestamp":"13:09:37"}
+{"level":"info","message":"::1 - - [14/May/2018:08:09:37 +0000] \"POST /api/users/updateLocation HTTP/1.1\" 200 351 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"13:09:37"}
+{"level":"info","message":"UserExists Method Called","timestamp":"14:52:53"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"14:52:53"}
+{"level":"info","message":"User Found with Phone Num. :03431469988","timestamp":"14:52:53"}
+{"level":"info","message":"location : 33.673923450007095,72.99943132380758","timestamp":"14:52:53"}
+{"level":"info","message":"User Location With Phone Num 03431469988","timestamp":"14:52:53"}
+{"level":"info","message":"::1 - - [14/May/2018:09:52:53 +0000] \"POST /api/users/updateLocation HTTP/1.1\" 200 351 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"14:52:53"}
+{"level":"info","message":"An Exception Has occured in updateUserLocation methodTypeError: Cannot read property 'push' of undefined","timestamp":"14:59:46"}
+{"level":"info","message":"::1 - - [14/May/2018:09:59:55 +0000] \"POST /api/users/updateLocation HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"14:59:55"}
+{"level":"info","message":"UserExists Method Called","timestamp":"15:00:19"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"15:00:19"}
+{"level":"info","message":"User Found with Phone Num. :03431469988","timestamp":"15:00:20"}
+{"level":"info","message":"location : 33.673923450007095,72.99943132380758","timestamp":"15:00:20"}
+{"level":"info","message":"User Location With Phone Num 03431469988","timestamp":"15:00:20"}
+{"level":"info","message":"::1 - - [14/May/2018:10:00:20 +0000] \"POST /api/users/updateLocation HTTP/1.1\" 200 1128 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"15:00:20"}
+{"phoneNo":"923431469988","longitude":"33.6739234","latitude":"72.9994313","level":"info","message":"updateRiderLocation method called","timestamp":"15:44:47"}
+{"level":"info","message":"An Exception Has occured in updateUserLocation methodTypeError: Cannot read property '_id' of null","timestamp":"15:44:56"}
+{"level":"info","message":"::1 - - [28/May/2018:10:46:47 +0000] \"POST /api/users/updateLocation HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"15:46:47"}
+{"level":"info","message":"IN Riderpickuploaction","timestamp":"15:48:47"}
+{"level":"info","message":"::1 - - [28/May/2018:10:48:52 +0000] \"POST /api/riders/pickuplocation HTTP/1.1\" 200 73 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"15:48:52"}
+{"level":"info","message":"IN Riderpickuploaction","timestamp":"15:49:23"}
+{"level":"info","message":"::1 - - [28/May/2018:10:49:28 +0000] \"POST /api/riders/pickuplocation HTTP/1.1\" 200 73 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"15:49:28"}
+{"phoneNo":"923431469988","longitude":"33.6739234","latitude":"72.9994313","level":"info","message":"updateRiderLocation method called","timestamp":"15:56:02"}
+{"level":"info","message":"An Exception Has occured in updateRiderLocation methodTypeError: Cannot read property '_id' of null","timestamp":"15:56:07"}
+{"phoneNo":"923431469988","longitude":"33.6739234","latitude":"72.9994313","level":"info","message":"updateRiderLocation method called","timestamp":"15:57:58"}
+{"level":"info","message":"UserExists Method Called","timestamp":"15:58:06"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"15:58:06"}
+{"level":"info","message":"User Found with Phone Num. :923431469988","timestamp":"15:58:07"}
+{"level":"info","message":"location : 33.6739234,72.9994313","timestamp":"15:58:07"}
+{"level":"info","message":"User Location With Phone Num 923431469988","timestamp":"15:58:07"}
+{"level":"info","message":"::1 - - [28/May/2018:10:58:07 +0000] \"POST /api/users/updateLocation HTTP/1.1\" 200 1140 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"15:58:07"}
+{"level":"info","message":"ChatController.sendMessageToDriver called  :","timestamp":"17:40:48"}
+{"level":"info","message":"An Exception Has occured in sendVerificationCode methodReferenceError: verificationMsg is not defined","timestamp":"17:40:49"}
+{"level":"info","message":"ChatController.sendMessageToDriver called  :","timestamp":"17:43:32"}
+{"level":"info","message":"::1 - - [28/May/2018:12:43:33 +0000] \"POST /api/admin/sendSmsToAllDrivers HTTP/1.1\" 200 59 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"17:43:33"}
+{"level":"info","message":"An Exception Has occured in sendVerificationCode methodWriteError({\"code\":11000,\"index\":0,\"errmsg\":\"E11000 duplicate key error index: vidly.users.$phone_1 dup key: { : null }\",\"op\":{\"phone\":null,\"profile_photo_url\":null,\"deactivate_user\":false,\"last_shared_loc_time\":\"2018-05-28T12:43:33.066Z\",\"_id\":\"5b0bf975eae6bf0b14e6d8a4\",\"message\":\"TEST MESSAGE FROM ADMIN\",\"createdAt\":\"2018-05-28T12:43:33.080Z\",\"updatedAt\":\"2018-05-28T12:43:33.080Z\",\"__v\":0}})","timestamp":"17:43:33"}
+{"level":"info","message":"ChatController.sendMessageToDriver called  :","timestamp":"17:44:59"}
+{"level":"info","message":"An Exception Has occured in sendVerificationCode methodWriteError({\"code\":11000,\"index\":0,\"errmsg\":\"E11000 duplicate key error index: vidly.users.$phone_1 dup key: { : null }\",\"op\":{\"phone\":null,\"profile_photo_url\":null,\"deactivate_user\":false,\"last_shared_loc_time\":\"2018-05-28T12:45:03.748Z\",\"_id\":\"5b0bf9cf1b36530f506ee9f3\",\"message\":\"TEST MESSAGE FROM ADMIN\",\"createdAt\":\"2018-05-28T12:45:03.755Z\",\"updatedAt\":\"2018-05-28T12:45:03.755Z\",\"__v\":0}})","timestamp":"17:45:04"}
+{"level":"info","message":"::1 - - [28/May/2018:12:46:59 +0000] \"POST /api/admin/sendSmsToAllDrivers HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"17:46:59"}
+{"level":"info","message":"ChatController.sendMessageToDriver called  :","timestamp":"17:49:33"}
+{"level":"info","message":"An Exception Has occured in sendVerificationCode methodWriteError({\"code\":11000,\"index\":0,\"errmsg\":\"E11000 duplicate key error index: vidly.users.$phone_1 dup key: { : null }\",\"op\":{\"phone\":null,\"profile_photo_url\":null,\"deactivate_user\":false,\"last_shared_loc_time\":\"2018-05-28T12:49:33.907Z\",\"_id\":\"5b0bfadd57ef202684a99753\",\"message\":\"TEST MESSAGE FROM ADMIN\",\"createdAt\":\"2018-05-28T12:49:33.913Z\",\"updatedAt\":\"2018-05-28T12:49:33.913Z\",\"__v\":0}})","timestamp":"17:49:34"}
+{"level":"info","message":"ChatController.sendMessageToDriver called  :","timestamp":"17:49:48"}
+{"level":"info","message":"An Exception Has occured in sendVerificationCode methodWriteError({\"code\":11000,\"index\":0,\"errmsg\":\"E11000 duplicate key error index: vidly.users.$phone_1 dup key: { : null }\",\"op\":{\"phone\":null,\"profile_photo_url\":null,\"deactivate_user\":false,\"last_shared_loc_time\":\"2018-05-28T12:49:52.424Z\",\"_id\":\"5b0bfaf077131f2f845d0787\",\"message\":\"TEST MESSAGE FROM ADMIN\",\"createdAt\":\"2018-05-28T12:49:52.431Z\",\"updatedAt\":\"2018-05-28T12:49:52.431Z\",\"__v\":0}})","timestamp":"17:49:52"}
+{"level":"info","message":"::1 - - [28/May/2018:12:51:48 +0000] \"POST /api/admin/sendSmsToAllDrivers HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"17:51:48"}

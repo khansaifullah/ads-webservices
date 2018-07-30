@@ -1,0 +1,429 @@
+{"level":"info","message":"::1 - - [09/May/2018:04:29:07 +0000] \"POST /api/auth HTTP/1.1\" 200 427 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"09:29:07"}
+{"level":"info","message":"::1 - - [09/May/2018:05:05:51 +0000] \"GET /api/shifts/5aeae9fbf33f6300140e593f HTTP/1.1\" 200 1046 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"10:05:51"}
+{"level":"info","message":"::1 - - [09/May/2018:05:06:55 +0000] \"GET /api/shifts/5aeae9fbf33f6300140e593f HTTP/1.1\" 200 1046 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"10:06:55"}
+{"level":"info","message":"::1 - - [09/May/2018:05:08:43 +0000] \"GET /api/shifts/5aeae9fbf33f6300140e593f HTTP/1.1\" 500 286 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"10:08:43"}
+{"level":"info","message":"::1 - - [09/May/2018:05:09:32 +0000] \"GET /api/shifts/5aeae9fbf33f6300140e593f HTTP/1.1\" 200 1036 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"10:09:32"}
+{"level":"info","message":"In Route /VerificationCode called  :03431469988","timestamp":"11:38:54"}
+{"level":"info","message":"::1 - - [09/May/2018:06:38:54 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 500 1806 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:38:54"}
+{"level":"info","message":"In Route /VerificationCode called  :03431469988","timestamp":"11:40:49"}
+{"level":"info","message":"::1 - - [09/May/2018:06:40:49 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 500 1803 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:40:49"}
+{"level":"info","message":"In Route /VerificationCode called  :03431469988","timestamp":"11:41:44"}
+{"level":"info","message":"User Exists Response : null","timestamp":"11:41:46"}
+{"level":"info","message":"::1 - - [09/May/2018:06:41:46 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 500 892 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:41:46"}
+{"level":"info","message":"In Route /VerificationCode called  :03431469988","timestamp":"11:44:09"}
+{"level":"info","message":"User Exists Response : null","timestamp":"11:44:10"}
+{"level":"info","message":"::1 - - [09/May/2018:06:44:10 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 500 892 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:44:10"}
+{"level":"info","message":"In Route /VerificationCode called  :03431469988","timestamp":"11:44:53"}
+{"level":"info","message":"User Exists Response : null","timestamp":"11:44:54"}
+{"level":"info","message":"::1 - - [09/May/2018:06:44:54 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 500 299 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:44:54"}
+{"level":"info","message":"In Route /VerificationCode called  :03431469988","timestamp":"11:50:02"}
+{"level":"info","message":"::1 - - [09/May/2018:06:50:05 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 400 67 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:50:05"}
+{"level":"info","message":"In Route /VerificationCode called  :03431469999","timestamp":"11:50:31"}
+{"level":"info","message":"User Exists Response : null","timestamp":"11:50:31"}
+{"level":"info","message":"::1 - - [09/May/2018:06:50:31 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 500 778 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:50:31"}
+{"level":"info","message":"In Route /VerificationCode called  :03431469999","timestamp":"12:00:29"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:00:30"}
+{"level":"info","message":"User Created With Phone Num 03431469999","timestamp":"12:00:30"}
+{"level":"info","message":"::1 - - [09/May/2018:07:00:30 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 68 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:00:30"}
+{"level":"info","message":"In Route /VerificationCode called  :03431469999","timestamp":"12:04:05"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:04:06"}
+{"level":"info","message":"User Created With Phone Num 03431469999","timestamp":"12:04:06"}
+{"level":"info","message":"::1 - - [09/May/2018:07:04:06 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 68 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:04:06"}
+{"level":"info","message":"In Route /VerificationCode called  :03431469999","timestamp":"12:09:38"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:09:39"}
+{"level":"info","message":"User Created With Phone Num 03431469999Code 2392","timestamp":"12:09:39"}
+{"level":"info","message":"::1 - - [09/May/2018:07:09:39 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 68 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:09:39"}
+{"level":"info","message":"In Route /VerificationCode called  :03431469999","timestamp":"12:11:25"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:11:25"}
+{"level":"info","message":"User Created With Phone Num 03431469999Code 9889","timestamp":"12:11:25"}
+{"level":"info","message":"::1 - - [09/May/2018:07:11:25 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 68 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:11:25"}
+{"level":"info","message":"In Route /VerificationCode called  :03431469999","timestamp":"12:31:41"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:31:42"}
+{"level":"info","message":"User Created With Phone Num 03431469999Code 9059","timestamp":"12:31:42"}
+{"level":"info","message":"::1 - - [09/May/2018:07:31:42 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 68 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:31:42"}
+{"level":"info","message":"In Route /VerificationCode called  :03431469999","timestamp":"12:31:54"}
+{"level":"info","message":"::1 - - [09/May/2018:07:31:54 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 400 67 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:31:54"}
+{"level":"info","message":"In Route /VerificationCode called  :03431469999","timestamp":"12:35:23"}
+{"level":"info","message":"::1 - - [09/May/2018:07:35:24 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 400 67 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:35:24"}
+{"level":"info","message":"In Route /VerificationCode called  :03431469999","timestamp":"12:47:54"}
+{"level":"info","message":"::1 - - [09/May/2018:07:47:55 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 500 287 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:47:55"}
+{"level":"info","message":"In Route /VerificationCode called  :03431469999","timestamp":"12:48:46"}
+{"level":"info","message":"::1 - - [09/May/2018:07:48:48 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 500 304 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:48:48"}
+{"level":"info","message":"In Route /VerificationCode called  :03431469999","timestamp":"12:49:32"}
+{"level":"info","message":"::1 - - [09/May/2018:07:49:33 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 400 67 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:49:33"}
+{"level":"info","message":"In Route /VerificationCode called  :03431469999","timestamp":"12:49:44"}
+{"level":"info","message":"User Created With Phone Num 03431469999Code 3661","timestamp":"12:49:45"}
+{"level":"info","message":"::1 - - [09/May/2018:07:49:45 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 68 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:49:45"}
+{"level":"info","message":"In Route /VerificationCode called  :03431469999","timestamp":"12:55:01"}
+{"level":"info","message":"::1 - - [09/May/2018:07:55:01 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 400 67 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:55:01"}
+{"level":"info","message":"In Route /VerificationCode called  :03431469999","timestamp":"12:55:08"}
+{"level":"info","message":"::1 - - [09/May/2018:07:55:08 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 400 67 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:55:08"}
+{"level":"info","message":"In Route /VerificationCode called  :03431469999","timestamp":"12:55:47"}
+{"level":"info","message":"::1 - - [09/May/2018:07:55:50 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 400 67 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:55:50"}
+{"level":"info","message":"In Route /VerificationCode called  :03431469999","timestamp":"12:55:58"}
+{"level":"info","message":"::1 - - [09/May/2018:07:55:58 +0000] \"POST /api/users/resendVerificationcode HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:55:58"}
+{"level":"info","message":"In Route /VerificationCode called  :03431469999","timestamp":"12:57:01"}
+{"level":"info","message":"::1 - - [09/May/2018:07:57:02 +0000] \"POST /api/users/resendVerificationcode HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:57:02"}
+{"level":"info","message":"In Route /VerificationCode called  :03431469999","timestamp":"12:57:14"}
+{"level":"info","message":"::1 - - [09/May/2018:07:57:15 +0000] \"POST /api/users/resendVerificationcode HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:57:15"}
+{"level":"info","message":"In user routes verifyCode route called.  :03431469999 - undefined","timestamp":"13:14:41"}
+{"level":"info","message":"Wrong Code Sent For Verifcation :undefined","timestamp":"13:14:41"}
+{"level":"info","message":"::1 - - [09/May/2018:08:14:41 +0000] \"POST /api/users/verifyCode HTTP/1.1\" 200 57 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"13:14:41"}
+{"level":"info","message":"In user routes verifyCode route called.  :03431469999 - 6192","timestamp":"13:15:25"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [09/May/2018:08:15:28 +0000] \"POST /api/users/verifyCode HTTP/1.1\" 200 59 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"13:15:28"}
+{"level":"info","message":"In Route /VerificationCode called  :03431466666","timestamp":"14:46:08"}
+{"level":"info","message":"::1 - - [09/May/2018:09:46:09 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 500 778 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"14:46:09"}
+{"level":"info","message":"In Route /VerificationCode called  :03431466666","timestamp":"14:50:43"}
+{"level":"info","message":"::1 - - [09/May/2018:09:50:43 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 500 778 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"14:50:43"}
+{"level":"info","message":"In Route /VerificationCode called  :03431466666","timestamp":"14:52:09"}
+{"level":"info","message":"::1 - - [09/May/2018:09:52:12 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 500 778 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"14:52:12"}
+{"level":"info","message":"In Route /VerificationCode called  :03431466666","timestamp":"14:58:26"}
+{"level":"info","message":"User Created With Phone Num 03431466666Code 4537","timestamp":"14:58:26"}
+{"level":"info","message":"::1 - - [09/May/2018:09:58:26 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 68 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"14:58:26"}
+{"level":"info","message":"::1 - - [09/May/2018:10:35:09 +0000] \"POST /api/users/profile HTTP/1.1\" 500 283 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"15:35:09"}
+{"level":"info","message":"::1 - - [09/May/2018:10:36:47 +0000] \"POST /api/users/profile HTTP/1.1\" 500 283 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"15:36:47"}
+{"level":"info","message":"::1 - - [09/May/2018:10:43:01 +0000] \"POST /api/users/profile HTTP/1.1\" 200 65 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"15:43:01"}
+{"level":"info","message":"::1 - - [09/May/2018:10:56:36 +0000] \"POST /api/users/profile HTTP/1.1\" 200 65 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"15:56:36"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [09/May/2018:10:57:20 +0000] \"POST /api/users/profile HTTP/1.1\" 200 65 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"15:57:20"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [09/May/2018:10:58:15 +0000] \"POST /api/users/profile HTTP/1.1\" 200 65 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"15:58:15"}
+{"level":"info","message":"::1 - - [09/May/2018:11:03:02 +0000] \"POST /api/users/profile HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:03:02"}
+{"level":"info","message":"::1 - - [09/May/2018:11:03:17 +0000] \"POST /api/users/profile HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:03:17"}
+{"level":"info","message":"::1 - - [09/May/2018:11:16:59 +0000] \"POST /api/users/profile HTTP/1.1\" 500 1792 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:16:59"}
+{"level":"info","message":"::1 - - [09/May/2018:11:22:14 +0000] \"POST /api/users/profile HTTP/1.1\" 200 65 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:22:14"}
+{"level":"info","message":"::1 - - [09/May/2018:11:22:22 +0000] \"POST /api/users/profile HTTP/1.1\" 200 65 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:22:22"}
+{"level":"info","message":"::1 - - [09/May/2018:11:24:28 +0000] \"POST /api/users/profile HTTP/1.1\" 200 65 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:24:28"}
+{"level":"info","message":"::1 - - [09/May/2018:11:43:39 +0000] \"GET /api/shifts/5aeae9fbf33f6300140e593f HTTP/1.1\" 200 1020 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:43:39"}
+{"level":"info","message":"UserExists Method Called","timestamp":"16:54:38"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"16:54:38"}
+{"level":"info","message":"User Not Found with Phone Num. :aqeel146@gmail.com","timestamp":"16:54:38"}
+{"level":"info","message":"::1 - - [09/May/2018:11:54:38 +0000] \"POST /api/users/updateLocation HTTP/1.1\" 200 71 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:54:38"}
+{"level":"info","message":"UserExists Method Called","timestamp":"16:56:50"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"16:56:50"}
+{"level":"info","message":"User Found with Phone Num. :aqeel146@gmail.com","timestamp":"16:56:50"}
+{"level":"info","message":"location : -73.97,55.55","timestamp":"16:56:50"}
+{"level":"info","message":"User Location With Phone Num aqeel146@gmail.com","timestamp":"16:56:51"}
+{"level":"info","message":"::1 - - [09/May/2018:11:56:51 +0000] \"POST /api/users/updateLocation HTTP/1.1\" 200 456 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:56:51"}
+{"level":"info","message":"::1 - - [09/May/2018:12:26:35 +0000] \"POST /api/users/profile HTTP/1.1\" 500 1420 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"17:26:35"}
+{"level":"info","message":"::1 - - [16/May/2018:07:38:56 +0000] \"POST /api/admin/login HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:38:56"}
+{"level":"info","message":"::1 - - [16/May/2018:07:39:11 +0000] \"POST /api/admin/login HTTP/1.1\" 400 14 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:39:11"}
+{"level":"info","message":"::1 - - [16/May/2018:07:39:31 +0000] \"POST /api/admin/login HTTP/1.1\" 400 17 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:39:31"}
+{"level":"info","message":"::1 - - [16/May/2018:07:39:48 +0000] \"POST /api/admin/login HTTP/1.1\" 200 128 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:39:48"}
+{"level":"info","message":"::1 - - [23/May/2018:06:08:46 +0000] \"POST /api/users/register HTTP/1.1\" 200 128 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:08:46"}
+{"level":"info","message":"::1 - - [23/May/2018:06:10:32 +0000] \"POST /api/users/register HTTP/1.1\" 400 24 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:10:32"}
+{"level":"info","message":"::1 - - [23/May/2018:06:10:54 +0000] \"POST /api/users/register HTTP/1.1\" 200 125 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:10:54"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"11:11:21"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :03331112224","timestamp":"11:11:21"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:11:21"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:11:21"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"11:11:21"}
+{"level":"info","message":"User Found with Phone Num. :{ phone: '03331112224',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-23T06:10:53.981Z,\n  _id: 5b0505ed531f71295cd42368,\n  name: 'testRider',\n  email: 'testRider@gmail.com',\n  password: '$2a$10$e0mFabaJt6aUowfBqqjD6.j/ueA2nWpKxtdRXEpiyT0rRUJ3Ytw7K',\n  user_type: 'rider',\n  createdAt: 2018-05-23T06:10:54.093Z,\n  updatedAt: 2018-05-23T06:10:54.093Z,\n  __v: 0 }","timestamp":"11:11:21"}
+{"level":"info","message":"User Exists Response : { phone: '03331112224',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-23T06:10:53.981Z,\n  _id: 5b0505ed531f71295cd42368,\n  name: 'testRider',\n  email: 'testRider@gmail.com',\n  password: '$2a$10$e0mFabaJt6aUowfBqqjD6.j/ueA2nWpKxtdRXEpiyT0rRUJ3Ytw7K',\n  user_type: 'rider',\n  createdAt: 2018-05-23T06:10:54.093Z,\n  updatedAt: 2018-05-23T06:10:54.093Z,\n  __v: 0 }","timestamp":"11:11:21"}
+{"level":"info","message":"::1 - - [23/May/2018:06:11:21 +0000] \"POST /api/users/resendVerificationcode HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:11:21"}
+{"level":"info","message":"Sucessful Response of SMS API : 03331112224","timestamp":"11:11:22"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"11:13:12"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :03331112224","timestamp":"11:13:12"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:13:12"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:13:12"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"11:13:12"}
+{"level":"info","message":"User Found with Phone Num. :{ phone: '03331112224',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-23T06:10:53.981Z,\n  _id: 5b0505ed531f71295cd42368,\n  name: 'testRider',\n  email: 'testRider@gmail.com',\n  password: '$2a$10$e0mFabaJt6aUowfBqqjD6.j/ueA2nWpKxtdRXEpiyT0rRUJ3Ytw7K',\n  user_type: 'rider',\n  createdAt: 2018-05-23T06:10:54.093Z,\n  updatedAt: 2018-05-23T06:11:21.525Z,\n  __v: 0,\n  verification_code: '0776' }","timestamp":"11:13:12"}
+{"level":"info","message":"User Exists Response : { phone: '03331112224',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-23T06:10:53.981Z,\n  _id: 5b0505ed531f71295cd42368,\n  name: 'testRider',\n  email: 'testRider@gmail.com',\n  password: '$2a$10$e0mFabaJt6aUowfBqqjD6.j/ueA2nWpKxtdRXEpiyT0rRUJ3Ytw7K',\n  user_type: 'rider',\n  createdAt: 2018-05-23T06:10:54.093Z,\n  updatedAt: 2018-05-23T06:11:21.525Z,\n  __v: 0,\n  verification_code: '0776' }","timestamp":"11:13:12"}
+{"level":"info","message":"::1 - - [23/May/2018:06:13:12 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:13:12"}
+{"level":"info","message":"Sucessful Response of SMS API : 03331112224","timestamp":"11:13:13"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"11:33:23"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :03431469988","timestamp":"11:33:23"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:33:23"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:33:23"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"11:33:23"}
+{"level":"info","message":"User Found with Phone Num. :{ phone: '03431469988',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-22T20:40:43.147Z,\n  _id: 5af868511e68a72210da4d26,\n  name: 'aqeel raza',\n  email: 'aqeel146@gmail.com',\n  password: '$2a$10$17obbRwXgLslZdwX.n1JQeFYzI1dNRDy/qpSdwUMRU9nA57Umyr.O',\n  user_type: 'driver',\n  createdAt: 2018-05-13T16:31:14.036Z,\n  updatedAt: 2018-05-22T20:40:43.150Z,\n  __v: 158,\n  loc: [ 73.0921925, 33.5216612 ],\n  verification_code: '5878' }","timestamp":"11:33:23"}
+{"level":"info","message":"User Exists Response : { phone: '03431469988',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-22T20:40:43.147Z,\n  _id: 5af868511e68a72210da4d26,\n  name: 'aqeel raza',\n  email: 'aqeel146@gmail.com',\n  password: '$2a$10$17obbRwXgLslZdwX.n1JQeFYzI1dNRDy/qpSdwUMRU9nA57Umyr.O',\n  user_type: 'driver',\n  createdAt: 2018-05-13T16:31:14.036Z,\n  updatedAt: 2018-05-22T20:40:43.150Z,\n  __v: 158,\n  loc: [ 73.0921925, 33.5216612 ],\n  verification_code: '5878' }","timestamp":"11:33:23"}
+{"level":"info","message":"::1 - - [23/May/2018:06:33:23 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:33:23"}
+{"level":"info","message":"Sucessful Response of SMS API : 03431469988","timestamp":"11:33:24"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"11:36:45"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923431469988","timestamp":"11:36:45"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:36:45"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:36:45"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"11:36:45"}
+{"level":"info","message":"User Not Found with Phone Num. :null","timestamp":"11:36:45"}
+{"level":"info","message":"User Exists Response : null","timestamp":"11:36:45"}
+{"level":"info","message":" User does not exist,  Creating user","timestamp":"11:36:45"}
+{"level":"info","message":"::1 - - [23/May/2018:06:36:45 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 69 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:36:45"}
+{"level":"info","message":"::1 - - [23/May/2018:06:37:48 +0000] \"POST /api/users/register HTTP/1.1\" 200 121 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:37:48"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"11:38:15"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923331112224","timestamp":"11:38:15"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:38:15"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:38:15"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"11:38:15"}
+{"level":"info","message":"User Found with Phone Num. :{ phone: '+923331112224',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-23T06:37:48.518Z,\n  _id: 5b050c3cc677fb2b64a65ba3,\n  name: 'bbbccc',\n  email: 'bbbccc@gmail.com',\n  password: '$2a$10$hiDAVIE6VSBuPY6MteqgjO42tfSdx97uJ86sl/Z1ztQJ678WY01Nm',\n  user_type: 'rider',\n  createdAt: 2018-05-23T06:37:48.629Z,\n  updatedAt: 2018-05-23T06:37:48.629Z,\n  __v: 0 }","timestamp":"11:38:15"}
+{"level":"info","message":"User Exists Response : { phone: '+923331112224',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-23T06:37:48.518Z,\n  _id: 5b050c3cc677fb2b64a65ba3,\n  name: 'bbbccc',\n  email: 'bbbccc@gmail.com',\n  password: '$2a$10$hiDAVIE6VSBuPY6MteqgjO42tfSdx97uJ86sl/Z1ztQJ678WY01Nm',\n  user_type: 'rider',\n  createdAt: 2018-05-23T06:37:48.629Z,\n  updatedAt: 2018-05-23T06:37:48.629Z,\n  __v: 0 }","timestamp":"11:38:15"}
+{"level":"info","message":"::1 - - [23/May/2018:06:38:15 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:38:15"}
+{"level":"info","message":"Sucessful Response of SMS API : 923331112224","timestamp":"11:38:16"}
+{"level":"info","message":"::1 - - [23/May/2018:06:39:24 +0000] \"POST /api/users/register HTTP/1.1\" 400 24 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:39:24"}
+{"level":"info","message":"::1 - - [23/May/2018:06:39:43 +0000] \"POST /api/users/register HTTP/1.1\" 200 131 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:39:43"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"11:39:58"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923438856566","timestamp":"11:39:58"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:39:58"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:39:58"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"11:39:58"}
+{"level":"info","message":"User Found with Phone Num. :{ phone: '+923438856566',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-23T06:39:43.128Z,\n  _id: 5b050cafc677fb2b64a65baf,\n  name: 'jahanzaib',\n  email: 'jahanzaib123@gmail.com',\n  password: '$2a$10$Drqa0ZNhaK6wOHfy67bLkuli5fOrz7GYlu6Xta1rNUvFkgM6LQ2/i',\n  user_type: 'driver',\n  createdAt: 2018-05-23T06:39:43.237Z,\n  updatedAt: 2018-05-23T06:39:43.237Z,\n  __v: 0 }","timestamp":"11:39:58"}
+{"level":"info","message":"User Exists Response : { phone: '+923438856566',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-23T06:39:43.128Z,\n  _id: 5b050cafc677fb2b64a65baf,\n  name: 'jahanzaib',\n  email: 'jahanzaib123@gmail.com',\n  password: '$2a$10$Drqa0ZNhaK6wOHfy67bLkuli5fOrz7GYlu6Xta1rNUvFkgM6LQ2/i',\n  user_type: 'driver',\n  createdAt: 2018-05-23T06:39:43.237Z,\n  updatedAt: 2018-05-23T06:39:43.237Z,\n  __v: 0 }","timestamp":"11:39:58"}
+{"level":"info","message":"::1 - - [23/May/2018:06:39:58 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:39:58"}
+{"level":"info","message":"Sucessful Response of SMS API : 923438856566","timestamp":"11:39:59"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"11:45:04"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :923345022570","timestamp":"11:45:04"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:45:04"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:45:04"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"11:45:04"}
+{"level":"info","message":"User Not Found with Phone Num. :null","timestamp":"11:45:04"}
+{"level":"info","message":"User Exists Response : null","timestamp":"11:45:04"}
+{"level":"info","message":" User does not exist,  Creating user","timestamp":"11:45:04"}
+{"level":"info","message":"User Created With Phone Num 923345022570","timestamp":"11:45:04"}
+{"level":"info","message":"::1 - - [23/May/2018:06:45:04 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 68 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:45:04"}
+{"level":"info","message":"Sucessful Response of SMS API : [object Object]","timestamp":"11:45:05"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"11:45:24"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :923345022570","timestamp":"11:45:24"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:45:24"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:45:24"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"11:45:24"}
+{"level":"info","message":"User Found with Phone Num. :{ phone: '923345022570',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-23T06:45:04.398Z,\n  _id: 5b050df0c677fb2b64a65bbe,\n  verified_user: false,\n  verification_code: '0682',\n  user_type: 'rider',\n  createdAt: 2018-05-23T06:45:04.400Z,\n  updatedAt: 2018-05-23T06:45:04.400Z,\n  __v: 0 }","timestamp":"11:45:25"}
+{"level":"info","message":"User Exists Response : { phone: '923345022570',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-23T06:45:04.398Z,\n  _id: 5b050df0c677fb2b64a65bbe,\n  verified_user: false,\n  verification_code: '0682',\n  user_type: 'rider',\n  createdAt: 2018-05-23T06:45:04.400Z,\n  updatedAt: 2018-05-23T06:45:04.400Z,\n  __v: 0 }","timestamp":"11:45:25"}
+{"level":"info","message":"::1 - - [23/May/2018:06:45:25 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:45:25"}
+{"level":"info","message":"Sucessful Response of SMS API : 923345022570","timestamp":"11:45:25"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"11:47:52"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :923431469988","timestamp":"11:47:52"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:47:52"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:47:52"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"11:47:52"}
+{"level":"info","message":"User Found with Phone Num. :{ phone: '923431469988',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-22T20:40:43.147Z,\n  _id: 5af868511e68a72210da4d26,\n  name: 'aqeel raza',\n  email: 'aqeel146@gmail.com',\n  password: '$2a$10$17obbRwXgLslZdwX.n1JQeFYzI1dNRDy/qpSdwUMRU9nA57Umyr.O',\n  user_type: 'driver',\n  createdAt: 2018-05-13T16:31:14.036Z,\n  updatedAt: 2018-05-23T06:33:23.845Z,\n  __v: 158,\n  loc: [ 73.0921925, 33.5216612 ],\n  verification_code: '9629' }","timestamp":"11:47:52"}
+{"level":"info","message":"User Exists Response : { phone: '923431469988',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-22T20:40:43.147Z,\n  _id: 5af868511e68a72210da4d26,\n  name: 'aqeel raza',\n  email: 'aqeel146@gmail.com',\n  password: '$2a$10$17obbRwXgLslZdwX.n1JQeFYzI1dNRDy/qpSdwUMRU9nA57Umyr.O',\n  user_type: 'driver',\n  createdAt: 2018-05-13T16:31:14.036Z,\n  updatedAt: 2018-05-23T06:33:23.845Z,\n  __v: 158,\n  loc: [ 73.0921925, 33.5216612 ],\n  verification_code: '9629' }","timestamp":"11:47:52"}
+{"level":"info","message":"::1 - - [23/May/2018:06:47:52 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:47:52"}
+{"level":"info","message":"Sucessful Response of SMS API : 923431469988","timestamp":"11:47:53"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"11:52:38"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :923431469988","timestamp":"11:52:38"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:52:38"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:52:38"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"11:52:38"}
+{"level":"info","message":"User Found with Phone Num. :{ phone: '923431469988',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-22T20:40:43.147Z,\n  _id: 5af868511e68a72210da4d26,\n  name: 'aqeel raza',\n  email: 'aqeel146@gmail.com',\n  password: '$2a$10$17obbRwXgLslZdwX.n1JQeFYzI1dNRDy/qpSdwUMRU9nA57Umyr.O',\n  user_type: 'driver',\n  createdAt: 2018-05-13T16:31:14.036Z,\n  updatedAt: 2018-05-23T06:47:52.322Z,\n  __v: 158,\n  loc: [ 73.0921925, 33.5216612 ],\n  verification_code: '4979' }","timestamp":"11:52:39"}
+{"level":"info","message":"User Exists Response : { phone: '923431469988',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-22T20:40:43.147Z,\n  _id: 5af868511e68a72210da4d26,\n  name: 'aqeel raza',\n  email: 'aqeel146@gmail.com',\n  password: '$2a$10$17obbRwXgLslZdwX.n1JQeFYzI1dNRDy/qpSdwUMRU9nA57Umyr.O',\n  user_type: 'driver',\n  createdAt: 2018-05-13T16:31:14.036Z,\n  updatedAt: 2018-05-23T06:47:52.322Z,\n  __v: 158,\n  loc: [ 73.0921925, 33.5216612 ],\n  verification_code: '4979' }","timestamp":"11:52:39"}
+{"level":"info","message":"::1 - - [23/May/2018:06:52:39 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:52:39"}
+{"level":"info","message":"Sucessful Response of SMS API : 923431469988","timestamp":"11:52:39"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"11:58:24"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :923431469988","timestamp":"11:58:24"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:58:24"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:58:24"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"11:58:24"}
+{"level":"info","message":"User Found with Phone Num. :{ phone: '923431469988',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-22T20:40:43.147Z,\n  _id: 5af868511e68a72210da4d26,\n  name: 'aqeel raza',\n  email: 'aqeel146@gmail.com',\n  password: '$2a$10$17obbRwXgLslZdwX.n1JQeFYzI1dNRDy/qpSdwUMRU9nA57Umyr.O',\n  user_type: 'driver',\n  createdAt: 2018-05-13T16:31:14.036Z,\n  updatedAt: 2018-05-23T06:52:39.113Z,\n  __v: 158,\n  loc: [ 73.0921925, 33.5216612 ],\n  verification_code: '7203' }","timestamp":"11:58:25"}
+{"level":"info","message":"User Exists Response : { phone: '923431469988',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-22T20:40:43.147Z,\n  _id: 5af868511e68a72210da4d26,\n  name: 'aqeel raza',\n  email: 'aqeel146@gmail.com',\n  password: '$2a$10$17obbRwXgLslZdwX.n1JQeFYzI1dNRDy/qpSdwUMRU9nA57Umyr.O',\n  user_type: 'driver',\n  createdAt: 2018-05-13T16:31:14.036Z,\n  updatedAt: 2018-05-23T06:52:39.113Z,\n  __v: 158,\n  loc: [ 73.0921925, 33.5216612 ],\n  verification_code: '7203' }","timestamp":"11:58:25"}
+{"level":"info","message":"::1 - - [23/May/2018:06:58:25 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:58:25"}
+{"level":"info","message":"Sucessful Response of SMS API : 923431469988","timestamp":"11:58:26"}
+{"level":"info","message":"::1 - - [23/May/2018:09:46:01 +0000] \"OPTIONS /api/accounts/signup HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36\"\n","timestamp":"14:46:01"}
+{"level":"info","message":"::1 - - [23/May/2018:09:46:04 +0000] \"POST /api/accounts/signup HTTP/1.1\" 404 159 \"http://localhost:4200/register\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36\"\n","timestamp":"14:46:04"}
+{"level":"info","message":"::1 - - [23/May/2018:09:46:11 +0000] \"OPTIONS /api/accounts/signup HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36\"\n","timestamp":"14:46:11"}
+{"level":"info","message":"::1 - - [23/May/2018:09:46:11 +0000] \"POST /api/accounts/signup HTTP/1.1\" 404 159 \"http://localhost:4200/register\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36\"\n","timestamp":"14:46:11"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"22:07:53"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :923315845506","timestamp":"22:07:53"}
+{"level":"info","message":"UserExists Method Called","timestamp":"22:07:53"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"22:07:53"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"22:07:53"}
+{"level":"info","message":"User Not Found with Phone Num. :null","timestamp":"22:08:06"}
+{"level":"info","message":"User Exists Response : null","timestamp":"22:08:06"}
+{"level":"info","message":" User does not exist,  Creating user","timestamp":"22:08:06"}
+{"level":"info","message":"User Created With Phone Num 923315845506","timestamp":"22:08:09"}
+{"level":"info","message":"::1 - - [23/May/2018:17:08:09 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 68 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"22:08:09"}
+{"level":"info","message":"Sucessful Response of SMS API : [object Object]","timestamp":"22:08:13"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"22:09:35"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :923315845506","timestamp":"22:09:35"}
+{"level":"info","message":"UserExists Method Called","timestamp":"22:09:35"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"22:09:35"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"22:09:35"}
+{"level":"info","message":"User Found with Phone Num. :{ phone: '923315845506',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-23T17:08:06.858Z,\n  _id: 5b059ff6a4ec3412a00bd4a0,\n  verified_user: false,\n  verification_code: '3039',\n  user_type: 'rider',\n  createdAt: 2018-05-23T17:08:06.869Z,\n  updatedAt: 2018-05-23T17:08:06.869Z,\n  __v: 0 }","timestamp":"22:09:35"}
+{"level":"info","message":"User Exists Response : { phone: '923315845506',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-23T17:08:06.858Z,\n  _id: 5b059ff6a4ec3412a00bd4a0,\n  verified_user: false,\n  verification_code: '3039',\n  user_type: 'rider',\n  createdAt: 2018-05-23T17:08:06.869Z,\n  updatedAt: 2018-05-23T17:08:06.869Z,\n  __v: 0 }","timestamp":"22:09:35"}
+{"level":"info","message":"::1 - - [23/May/2018:17:09:35 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"22:09:35"}
+{"level":"info","message":"Sucessful Response of SMS API : 923315845506","timestamp":"22:09:37"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"22:15:32"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :923315845506","timestamp":"22:15:33"}
+{"level":"info","message":"UserExists Method Called","timestamp":"22:15:33"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"22:15:33"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"22:15:33"}
+{"level":"info","message":"User Found with Phone Num. :{ phone: '923315845506',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-23T17:08:06.858Z,\n  _id: 5b059ff6a4ec3412a00bd4a0,\n  verified_user: false,\n  verification_code: '5161',\n  user_type: 'rider',\n  createdAt: 2018-05-23T17:08:06.869Z,\n  updatedAt: 2018-05-23T17:09:35.929Z,\n  __v: 0 }","timestamp":"22:15:37"}
+{"level":"info","message":"User Exists Response : { phone: '923315845506',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-23T17:08:06.858Z,\n  _id: 5b059ff6a4ec3412a00bd4a0,\n  verified_user: false,\n  verification_code: '5161',\n  user_type: 'rider',\n  createdAt: 2018-05-23T17:08:06.869Z,\n  updatedAt: 2018-05-23T17:09:35.929Z,\n  __v: 0 }","timestamp":"22:15:37"}
+{"level":"info","message":"::1 - - [23/May/2018:17:15:37 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"22:15:37"}
+{"level":"info","message":"Sucessful Response of SMS API : 923315845506","timestamp":"22:15:39"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"22:16:59"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :923315845506","timestamp":"22:16:59"}
+{"level":"info","message":"UserExists Method Called","timestamp":"22:16:59"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"22:16:59"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"22:16:59"}
+{"level":"info","message":"User Found with Phone Num. :{ phone: '923315845506',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-23T17:08:06.858Z,\n  _id: 5b059ff6a4ec3412a00bd4a0,\n  verified_user: false,\n  verification_code: '1876',\n  user_type: 'rider',\n  createdAt: 2018-05-23T17:08:06.869Z,\n  updatedAt: 2018-05-23T17:15:37.534Z,\n  __v: 0 }","timestamp":"22:17:04"}
+{"level":"info","message":"User Exists Response : { phone: '923315845506',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-23T17:08:06.858Z,\n  _id: 5b059ff6a4ec3412a00bd4a0,\n  verified_user: false,\n  verification_code: '1876',\n  user_type: 'rider',\n  createdAt: 2018-05-23T17:08:06.869Z,\n  updatedAt: 2018-05-23T17:15:37.534Z,\n  __v: 0 }","timestamp":"22:17:04"}
+{"level":"info","message":"::1 - - [23/May/2018:17:17:04 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"22:17:04"}
+{"level":"info","message":"Sucessful Response of SMS API : 923315845506","timestamp":"22:17:16"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"22:21:17"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :923315845506","timestamp":"22:21:17"}
+{"level":"info","message":"UserExists Method Called","timestamp":"22:21:17"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"22:21:17"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"22:21:17"}
+{"level":"info","message":"User Found with Phone Num. :{ phone: '923315845506',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-23T17:08:06.858Z,\n  _id: 5b059ff6a4ec3412a00bd4a0,\n  verified_user: false,\n  verification_code: '6895',\n  user_type: 'rider',\n  createdAt: 2018-05-23T17:08:06.869Z,\n  updatedAt: 2018-05-23T17:17:04.939Z,\n  __v: 0 }","timestamp":"22:21:19"}
+{"level":"info","message":"User Exists Response : { phone: '923315845506',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-23T17:08:06.858Z,\n  _id: 5b059ff6a4ec3412a00bd4a0,\n  verified_user: false,\n  verification_code: '6895',\n  user_type: 'rider',\n  createdAt: 2018-05-23T17:08:06.869Z,\n  updatedAt: 2018-05-23T17:17:04.939Z,\n  __v: 0 }","timestamp":"22:21:19"}
+{"level":"info","message":"::1 - - [23/May/2018:17:21:19 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"22:21:19"}
+{"level":"info","message":"Sucessful Response of SMS API : 923315845506","timestamp":"22:21:20"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"22:22:39"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :123654789987","timestamp":"22:22:39"}
+{"level":"info","message":"UserExists Method Called","timestamp":"22:22:39"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"22:22:39"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"22:22:39"}
+{"level":"info","message":"User Not Found with Phone Num. :null","timestamp":"22:22:39"}
+{"level":"info","message":"User Exists Response : null","timestamp":"22:22:39"}
+{"level":"info","message":" User does not exist,  Creating user","timestamp":"22:22:39"}
+{"level":"info","message":"User Created With Phone Num 123654789987","timestamp":"22:22:39"}
+{"level":"info","message":"::1 - - [23/May/2018:17:22:39 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 68 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"22:22:39"}
+{"level":"info","message":"Sucessful Response of SMS API : [object Object]","timestamp":"22:22:40"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"22:23:21"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :923654789987","timestamp":"22:23:21"}
+{"level":"info","message":"UserExists Method Called","timestamp":"22:23:21"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"22:23:21"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"22:23:21"}
+{"level":"info","message":"User Not Found with Phone Num. :null","timestamp":"22:23:22"}
+{"level":"info","message":"User Exists Response : null","timestamp":"22:23:22"}
+{"level":"info","message":" User does not exist,  Creating user","timestamp":"22:23:22"}
+{"level":"info","message":"User Created With Phone Num 923654789987","timestamp":"22:23:22"}
+{"level":"info","message":"::1 - - [23/May/2018:17:23:22 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 68 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"22:23:22"}
+{"level":"info","message":"Sucessful Response of SMS API : [object Object]","timestamp":"22:23:23"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"22:24:41"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :923165896705","timestamp":"22:24:41"}
+{"level":"info","message":"UserExists Method Called","timestamp":"22:24:41"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"22:24:41"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"22:24:41"}
+{"level":"info","message":"User Not Found with Phone Num. :null","timestamp":"22:24:41"}
+{"level":"info","message":"User Exists Response : null","timestamp":"22:24:41"}
+{"level":"info","message":" User does not exist,  Creating user","timestamp":"22:24:41"}
+{"level":"info","message":"User Created With Phone Num 923165896705","timestamp":"22:24:41"}
+{"level":"info","message":"::1 - - [23/May/2018:17:24:41 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 68 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"22:24:41"}
+{"level":"info","message":"Sucessful Response of SMS API : [object Object]","timestamp":"22:24:42"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"22:26:04"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :923165896705","timestamp":"22:26:04"}
+{"level":"info","message":"UserExists Method Called","timestamp":"22:26:04"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"22:26:04"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"22:26:04"}
+{"level":"info","message":"User Found with Phone Num. :{ phone: '923165896705',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-23T17:24:41.571Z,\n  _id: 5b05a3d93d83d91d3c2602d0,\n  verified_user: false,\n  verification_code: '7214',\n  user_type: 'rider',\n  createdAt: 2018-05-23T17:24:41.574Z,\n  updatedAt: 2018-05-23T17:24:41.574Z,\n  __v: 0 }","timestamp":"22:26:05"}
+{"level":"info","message":"User Exists Response : { phone: '923165896705',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-23T17:24:41.571Z,\n  _id: 5b05a3d93d83d91d3c2602d0,\n  verified_user: false,\n  verification_code: '7214',\n  user_type: 'rider',\n  createdAt: 2018-05-23T17:24:41.574Z,\n  updatedAt: 2018-05-23T17:24:41.574Z,\n  __v: 0 }","timestamp":"22:26:05"}
+{"level":"info","message":"::1 - - [23/May/2018:17:26:05 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"22:26:05"}
+{"level":"info","message":"Sucessful Response of SMS API : 923165896705","timestamp":"22:26:08"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"22:29:54"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :03431469988","timestamp":"22:29:54"}
+{"level":"info","message":"UserExists Method Called","timestamp":"22:29:54"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"22:29:54"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"22:29:54"}
+{"level":"info","message":"User Not Found with Phone Num. :null","timestamp":"22:29:55"}
+{"level":"info","message":"User Exists Response : null","timestamp":"22:29:55"}
+{"level":"info","message":" User does not exist,  Creating user","timestamp":"22:29:55"}
+{"level":"info","message":"User Created With Phone Num 03431469988","timestamp":"22:29:56"}
+{"level":"info","message":"::1 - - [23/May/2018:17:29:56 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 68 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"22:29:56"}
+{"level":"info","message":"Sucessful Response of SMS API : [object Object]","timestamp":"22:29:57"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"22:33:22"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :03431469988","timestamp":"22:33:22"}
+{"level":"info","message":"UserExists Method Called","timestamp":"22:33:22"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"22:33:22"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"22:33:22"}
+{"level":"info","message":"User Found with Phone Num. :{ phone: '03431469988',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-23T17:29:55.462Z,\n  _id: 5b05a5135035e11dccc5fabb,\n  verified_user: false,\n  verification_code: '3886',\n  user_type: 'rider',\n  createdAt: 2018-05-23T17:29:55.472Z,\n  updatedAt: 2018-05-23T17:29:55.472Z,\n  __v: 0 }","timestamp":"22:33:22"}
+{"level":"info","message":"User Exists Response : { phone: '03431469988',\n  profile_photo_url: null,\n  deactivate_user: false,\n  last_shared_loc_time: 2018-05-23T17:29:55.462Z,\n  _id: 5b05a5135035e11dccc5fabb,\n  verified_user: false,\n  verification_code: '3886',\n  user_type: 'rider',\n  createdAt: 2018-05-23T17:29:55.472Z,\n  updatedAt: 2018-05-23T17:29:55.472Z,\n  __v: 0 }","timestamp":"22:33:22"}
+{"level":"info","message":"::1 - - [23/May/2018:17:33:22 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"22:33:22"}
+{"level":"info","message":"Sucessful Response of SMS API : 03431469988","timestamp":"22:33:24"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"22:36:02"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :923344600341","timestamp":"22:36:02"}
+{"level":"info","message":"UserExists Method Called","timestamp":"22:36:02"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"22:36:02"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"22:36:02"}
+{"level":"info","message":"User Not Found with Phone Num. :null","timestamp":"22:36:03"}
+{"level":"info","message":"User Exists Response : null","timestamp":"22:36:03"}
+{"level":"info","message":" User does not exist,  Creating user","timestamp":"22:36:03"}
+{"level":"info","message":"User Created With Phone Num 923344600341","timestamp":"22:36:05"}
+{"level":"info","message":"::1 - - [23/May/2018:17:36:05 +0000] \"POST /api/users/verificationcode HTTP/1.1\" 200 68 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"22:36:05"}
+{"level":"info","message":"Sucessful Response of SMS API : [object Object]","timestamp":"22:36:08"}
+{"level":"info","message":"::1 - - [30/May/2018:06:42:59 +0000] \"POST /api/riders HTTP/1.1\" 400 61 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:42:59"}
+{"level":"info","message":"::1 - - [30/May/2018:06:43:21 +0000] \"POST /api/riders HTTP/1.1\" 200 220 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:43:21"}
+{"level":"info","message":"::1 - - [30/May/2018:06:45:42 +0000] \"POST /api/riders HTTP/1.1\" 200 250 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:45:42"}
+{"level":"info","message":"::1 - - [30/May/2018:06:46:17 +0000] \"POST /api/riders HTTP/1.1\" 200 250 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:46:17"}
+{"level":"info","message":"::1 - - [30/May/2018:06:58:57 +0000] \"POST /api/riders HTTP/1.1\" 200 263 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"11:58:57"}
+{"phoneNo":"04341234321","longitude":"33.6739234","latitude":"72.9994313","level":"info","message":"updateRiderLocation method called","timestamp":"12:02:06"}
+{"level":"info","message":"::1 - - [30/May/2018:07:02:11 +0000] \"POST /api/users/updateLocation HTTP/1.1\" 200 627 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:02:11"}
+{"level":"info","message":"::1 - - [30/May/2018:07:03:42 +0000] \"POST /api/riders HTTP/1.1\" 200 263 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:03:42"}
+{"level":"info","message":"::1 - - [30/May/2018:07:03:56 +0000] \"POST /api/riders HTTP/1.1\" 200 263 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:03:56"}
+{"level":"info","message":"::1 - - [30/May/2018:07:04:59 +0000] \"POST /api/riders HTTP/1.1\" 200 263 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:04:59"}
+{"level":"info","message":"::1 - - [30/May/2018:07:05:20 +0000] \"POST /api/riders HTTP/1.1\" 200 263 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:05:20"}
+{"phoneNo":"04341234321","longitude":"33.6739234","latitude":"72.9994313","level":"info","message":"updateRiderLocation method called","timestamp":"12:05:43"}
+{"level":"info","message":"::1 - - [30/May/2018:07:05:49 +0000] \"POST /api/users/updateLocation HTTP/1.1\" 200 1060 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:05:49"}
+{"phoneNo":"04341234321","longitude":"33.6739234","latitude":"72.9994313","level":"info","message":"updateRiderLocation method called","timestamp":"12:11:58"}
+{"level":"info","message":"::1 - - [30/May/2018:07:12:04 +0000] \"POST /api/users/updateLocation HTTP/1.1\" 200 1060 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"12:12:04"}
+{"level":"info","message":"::1 - - [30/May/2018:08:17:56 +0000] \"POST /api/users/register HTTP/1.1\" 200 124 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"13:17:56"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:21:04"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:21:04"}
+{"level":"info","message":" Exit UPDATE DRIVER LOCATION Method","timestamp":"13:21:04"}
+{"level":"info","message":"User Found with Email. :{ phone: '923315845506',\n  profile_photo_url: null,\n  deactivate_user: false,\n  message: null,\n  last_shared_loc_time: 2018-05-30T08:17:55.894Z,\n  _id: 5b0e5e334111d22618dfe4a2,\n  name: 'Waseem',\n  email: 'Waseem123@gmail.com',\n  password: '$2a$10$OWXi1hByqbarBeo9EpwBJ.TGMQWX.e/6xGSA1iUikREbNeqRGodJS',\n  user_type: 'driver',\n  createdAt: 2018-05-30T08:17:56.060Z,\n  updatedAt: 2018-05-30T08:17:56.060Z,\n  __v: 0 }","timestamp":"13:21:04"}
+{"level":"info","message":"User Location With email Waseem123@gmail.com","timestamp":"13:21:05"}
+{"level":"info","message":"::1 - - [30/May/2018:08:21:05 +0000] \"POST /api/users/updateDriverLoc HTTP/1.1\" 200 486 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"13:21:05"}
+{"level":"info","message":"In POST shift route ","timestamp":"15:23:12"}
+{"level":"info","message":"::1 - - [30/May/2018:10:23:43 +0000] \"POST /api/shifts/ HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"15:23:43"}
+{"level":"info","message":"In POST shift route ","timestamp":"15:24:28"}
+{"level":"info","message":"::1 - - [30/May/2018:10:24:28 +0000] \"POST /api/shifts/ HTTP/1.1\" 400 70 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"15:24:28"}
+{"level":"info","message":"In POST shift route ","timestamp":"15:25:48"}
+{"level":"info","message":"::1 - - [30/May/2018:10:25:49 +0000] \"POST /api/shifts/ HTTP/1.1\" 200 575 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"15:25:49"}
+{"level":"info","message":"In POST shift route ","timestamp":"15:46:58"}
+{"level":"info","message":"In POST shift route ","timestamp":"15:48:05"}
+{"level":"info","message":"::1 - - [30/May/2018:10:48:05 +0000] \"POST /api/shifts/ HTTP/1.1\" 400 70 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"15:48:05"}
+{"level":"info","message":"In POST shift route ","timestamp":"15:48:51"}
+{"level":"info","message":"::1 - - [30/May/2018:10:48:52 +0000] \"POST /api/shifts/ HTTP/1.1\" 200 575 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"15:48:52"}
+{"level":"info","message":"In POST shift route ","timestamp":"15:54:05"}
+{"level":"info","message":"::1 - - [30/May/2018:10:54:06 +0000] \"POST /api/shifts/ HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"15:54:06"}
+{"level":"info","message":"In POST shift route ","timestamp":"15:54:35"}
+{"level":"info","message":"::1 - - [30/May/2018:10:54:36 +0000] \"POST /api/shifts/ HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"15:54:36"}
+{"level":"info","message":"In POST shift route ","timestamp":"16:02:33"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:02:49"}
+{"level":"info","message":"::1 - - [30/May/2018:11:02:49 +0000] \"POST /api/shifts/ HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:02:49"}
+{"level":"info","message":"::1 - - [30/May/2018:11:06:19 +0000] \"GET /api/shifts/getAllShifts HTTP/1.1\" 200 785 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:06:19"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:17:38"}
+{"level":"info","message":"::1 - - [30/May/2018:11:17:38 +0000] \"POST /api/shifts/ HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:17:38"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:17:58"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:19:47"}
+{"level":"info","message":"::1 - - [30/May/2018:11:19:48 +0000] \"POST /api/shifts/ HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:19:48"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:25:16"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:27:08"}
+{"level":"info","message":"::1 - - [30/May/2018:11:27:12 +0000] \"POST /api/shifts/ HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:27:12"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:31:22"}
+{"level":"info","message":"::1 - - [30/May/2018:11:31:22 +0000] \"POST /api/shifts/ HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:31:22"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:31:59"}
+{"level":"info","message":"::1 - - [30/May/2018:11:32:04 +0000] \"POST /api/shifts/ HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:32:04"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:32:58"}
+{"level":"info","message":"::1 - - [30/May/2018:11:32:58 +0000] \"POST /api/shifts/ HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:32:58"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:39:01"}
+{"level":"info","message":"::1 - - [30/May/2018:11:39:01 +0000] \"POST /api/shifts/ HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:39:01"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:40:19"}
+{"level":"info","message":"::1 - - [30/May/2018:11:40:19 +0000] \"POST /api/shifts/ HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:40:19"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:41:13"}
+{"level":"info","message":"::1 - - [30/May/2018:11:41:20 +0000] \"POST /api/shifts/ HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:41:20"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:42:11"}
+{"level":"info","message":"::1 - - [30/May/2018:11:42:15 +0000] \"POST /api/shifts/ HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:42:15"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:43:39"}
+{"level":"info","message":"::1 - - [30/May/2018:11:43:45 +0000] \"POST /api/shifts/ HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:43:45"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:44:34"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:44:48"}
+{"level":"info","message":"::1 - - [30/May/2018:11:44:56 +0000] \"POST /api/shifts/ HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:44:56"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:45:59"}
+{"level":"info","message":"::1 - - [30/May/2018:11:46:05 +0000] \"POST /api/shifts/ HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:46:05"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:48:19"}
+{"level":"info","message":"::1 - - [30/May/2018:11:48:19 +0000] \"POST /api/shifts/ HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:48:19"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:49:36"}
+{"level":"info","message":"::1 - - [30/May/2018:11:49:40 +0000] \"POST /api/shifts/ HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:49:40"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:50:30"}
+{"level":"info","message":"::1 - - [30/May/2018:11:50:30 +0000] \"POST /api/shifts/ HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:50:30"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:51:58"}
+{"level":"info","message":"::1 - - [30/May/2018:11:51:58 +0000] \"POST /api/shifts/ HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:51:58"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:52:27"}
+{"level":"info","message":"::1 - - [30/May/2018:11:52:27 +0000] \"POST /api/shifts/ HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:52:27"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:52:52"}
+{"level":"info","message":"::1 - - [30/May/2018:11:52:52 +0000] \"POST /api/shifts/ HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:52:52"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:53:53"}
+{"level":"info","message":"::1 - - [30/May/2018:11:53:58 +0000] \"POST /api/shifts/ HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:53:58"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:55:20"}
+{"level":"info","message":"::1 - - [30/May/2018:11:55:27 +0000] \"POST /api/shifts/ HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:55:27"}
+{"level":"info","message":"In ADD shift route ","timestamp":"16:56:57"}
+{"level":"info","message":"::1 - - [30/May/2018:11:56:58 +0000] \"POST /api/shifts/ HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.1\"\n","timestamp":"16:56:58"}
