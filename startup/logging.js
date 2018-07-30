@@ -45,7 +45,7 @@ var options = {
   },
   mongoLog: {
     //db: 'mongodb://admin:12345@ds139067.mlab.com:39067/vidly',
-    db: 'mongodb://admin:admin123@ds125881.mlab.com:25881/qau-smart-ride',
+    db: 'mongodb://admin:admin123@ds159651.mlab.com:59651/ads-dev-db',
     level: 'info'
   }
 };
