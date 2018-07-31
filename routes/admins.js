@@ -17,28 +17,13 @@ const logger = require('../startup/logging');
 const regCtrl = require('../controller/registrationController');
 const LocController = require('../controller/locationController');
 const chatController = require('../controller/chatController');
+const adminController = require('../controller/adminController');
 const router = express.Router();
 
 router.post('/register', async (req, res) => {                         
     
-    let user_type = 'admin';
-    let admin = await Admin.findOne({ email: req.body.email });
-    if (admin) return res.status(400).send('Admin already registered.');
-
-    admin = new Admin(_.pick(req.body, ['name', 'email', 'password', 'phone']));
-    let shared = new Shared({speedLimit:50.0});
-    await shared.save();
-    const salt = await bcrypt.genSalt(10);
-    admin.password = await bcrypt.hash(admin.password, salt);
-    await admin.save();
-
-    const token = admin.generateAuthToken();
-    res.header('x-auth-token', token);
-    res.jsonp({
-      status: 'success',
-      message: 'successfully admin created ',
-      object: admin    
-    });
+  adminController.register(req, res);
+  
 });
 
 

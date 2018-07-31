@@ -22,18 +22,18 @@ exports.sendNotifcationToPlayerId = function (playerId,obj){
 	try{
 		
 	//setHeader ("EventName",eventName);
-	headers.EventName="QAU Smart Ride";
+	headers.EventName="ADS";
 	console.log ('playerId : '+playerId);
 	var data = { 
 	  app_id:oneSignalConfig.androidAppiId,
 	  contents: {"en": obj},
-	  headings:{"en":"QAU Smart Ride"},
+	  headings:{"en":"ADS"},
 	  include_player_ids: [playerId],
 	  // data:obj,
 	  priority:10,
   
 	//will need to change for ios
-	android_group:"QAU Smart Ride",
+	android_group:"ADS",
 	
 	// for IOS
 	content_available:true,
