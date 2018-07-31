@@ -94,7 +94,7 @@ async function inRadiusNotification(user, riderId, location){
                 logger.info('Sending Notification to One signal  id ' + rider.onesignalid );
                 logger.info('Loc Object : long  = ' + location.loc[0] + "** lat =" +  location.loc[1] + "** radius =" + location.radius);
                 //logger.info('Individual Conversation msg  before Push Notification:'  );		
-               var message = "Bus is near your pick up Location";
+               var message = "Ambulance is near you!";
 
                if (rider.last_notification_time){
                 var difference_ms = new Date() - rider.last_notification_time;
